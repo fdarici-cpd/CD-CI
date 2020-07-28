@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata"/>
-
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingOwnerRules>
+        <fullName>South_Florida</fullName>
+        <accessLevel>Read</accessLevel>
+        <label>South Florida</label>
+        <sharedTo>
+            <territoryAndSubordinates>Model_A.Territory_1_1</territoryAndSubordinates>
+        </sharedTo>
+        <sharedFrom>
+            <territoryAndSubordinates>Model_A.Territory_1_1</territoryAndSubordinates>
+        </sharedFrom>
+    </sharingOwnerRules>
+</SharingRules>
