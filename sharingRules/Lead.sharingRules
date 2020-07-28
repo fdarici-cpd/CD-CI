@@ -11,4 +11,15 @@
             <territoryAndSubordinates>Model_A.Territory_1_1</territoryAndSubordinates>
         </sharedFrom>
     </sharingOwnerRules>
+    <sharingOwnerRules>
+        <fullName>Territory_2</fullName>
+        <accessLevel>Read</accessLevel>
+        <label>Territory 2</label>
+        <sharedTo>
+            <territoryAndSubordinates>Model_A.Territory_2</territoryAndSubordinates>
+        </sharedTo>
+        <sharedFrom>
+            <territoryAndSubordinates>Model_A.Territory_2</territoryAndSubordinates>
+        </sharedFrom>
+    </sharingOwnerRules>
 </SharingRules>
