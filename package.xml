@@ -4,13 +4,5 @@
         <members>Lead.Territory_2</members>
         <name>SharingOwnerRule</name>
     </types>
-    <types>
-        <members>Model_A.Territory_2</members>
-        <name>Territory2</name>
-    </types>
-    <types>
-        <members>Model_A.Region_Assignment</members>
-        <name>Territory2Rule</name>
-    </types>
     <version>48.0</version>
 </Package>
