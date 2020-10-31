@@ -161,6 +161,14 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+    <fields>
+        <fullName>F2__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>F2</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
     <label>A2</label>
     <nameField>
         <label>A2 Name</label>
